@@ -1,2 +1,25 @@
 pytest
 pytest-cov
+
+What the project does:
+  the nutrition calc is a python application that calculates the total nutrition value of selected foods based on their weight (in grams).
+
+the application reads food info from  a nutrition.json file (which I do not have as I cannot access it from the website unfortunately)
+the data includes:
+  - calories
+  - total fat 
+  - protein 
+  - carbs 
+  - sugars 
+
+the user provides food names and weights in a python dictionary. the application then calculates the nutritional total for all foods entered.
+
+the improved version( #2 ) also validates the food weights, handles missing or unknown foods, 
+checks for problems with the json file and rounds the final results into 2 decimal places.
+
+
+how to run the project:
+python must be installed before running the appliction
+first download or clone the GitHub repo:
+  git clone https://github.com/vickymordi07-sudo/nutrition-calculator.git
+
