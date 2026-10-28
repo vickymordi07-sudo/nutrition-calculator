@@ -1,0 +1,17 @@
+{
+  "Apple" : {
+    "calories" : 52,
+    "total_fat" : 0.2, 
+    "protein" : 0.3, 
+    "carbohydrate" : 14, 
+    "sugars" : 10
+
+    }, 
+  "Orange juice" : {
+    "calories" : 45,
+    "total_fat" : 0.2, 
+    "protein" : 0.7, 
+    "carbohydrate" : 10, 
+    "sugars" : 8
+    }
+}
